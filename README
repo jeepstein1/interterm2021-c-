@@ -1,0 +1,24 @@
+README Assignment 1: The Basics
+
+1. Jenny Epstein
+   2338652
+   jeepstein@chapman.edu
+   CPSC 298-07
+   Programming Assignment 1: The Basics
+
+2) cereal.cpp
+   fireCapacity.cpp
+   employeePay.cpp
+
+3) N/A
+
+4) N/A
+
+5) g++ cereal.cpp
+  ./a.out
+
+  g++ fireCapacity.cpp
+  ./a.out
+
+  g++ employeePay.cpp
+  ./a.out
