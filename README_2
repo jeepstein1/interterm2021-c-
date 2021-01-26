@@ -1,0 +1,29 @@
+README Assignment 1: The Basics
+
+1. Jenny Epstein
+   2338652
+   jeepstein@chapman.edu
+   CPSC 298-07
+   Programming Assignment 2: Loops, Arrays, and Functions
+
+2) intarray.cpp
+   zeroboth.cpp
+   salestax.cpp
+   conversion.cpp
+
+3)-Used Zybooks to reference certain topics to build classes
+
+
+4) N/A
+
+5) g++ intarray.cpp
+  ./a.out
+
+  g++ zeroboth.cpp
+  ./a.out
+
+  g++ salestax.cpp
+  ./a.out
+
+  g++ conversion.cpp
+  ./a.out
